@@ -7,3 +7,7 @@
 - GLM (OpenGL Mathematics)
 - GLFW (Graphics Library Framework)
 - GLEW (OpenGL Extension Wrangler Library)
+
+
+# Resources
+- Gathered textures from [Solar System Scope](https://www.solarsystemscope.com/textures/)
